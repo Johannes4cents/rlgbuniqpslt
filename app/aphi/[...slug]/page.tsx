@@ -1,10 +1,10 @@
 // app/aphi/[...slug]/page.tsx
-import React from "react";
+
 import { AphiScrollRouter } from "../../../components/aphi/AphiScrollRouter";
 import {RitualLogViewer} from "../../..//components/rituals/RitualLogViewer";
+import React, { Component } from "react";
 
-
-export default class AphiPage extends React.Component<{ params: { slug?: string[] } }> {
+export default class AphiPage extends Component<{ params: { slug?: string[] } }> {
   render() {
     const slug = this.props.params?.slug || [];
 
