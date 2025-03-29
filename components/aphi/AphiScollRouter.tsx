@@ -21,3 +21,5 @@ export class AphiScrollRouter extends React.Component<Props> {
         );
     }
 }
+
+export default AphiScrollRouter;

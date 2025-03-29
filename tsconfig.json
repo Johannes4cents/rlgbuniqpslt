@@ -20,7 +20,8 @@
       }
     ],
     "paths": {
-      "@iq/*": ["./*"]
+      "@iq/aphi/*": ["components/aphi/*"],
+  "@iq/ritual/*": ["components/ritual/*"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
