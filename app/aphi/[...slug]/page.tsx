@@ -1,6 +1,6 @@
 // app/aphi/[...slug]/page.tsx
 import React from "react";
-import { AphiScrollRouter } from "../../../components/aphi/AphiScrollRouter";
+import { AphiScrollRouter } from "@/components/aphi/AphiScrollRouter";
 import RitualLogViewer from "@iq/components/ritual/RitualLogViewer";
 
 
