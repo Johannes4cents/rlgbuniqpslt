@@ -1,1 +1,0 @@
-{ "LoopType EchoConfirmed": [{ "echo": [] }, { "loop": [] }, { "confirmed":: []}, { "mirror": [] }] }
