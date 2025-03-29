@@ -1,4 +1,3 @@
-// components/ritual/RitualLogViewer.tsx
 import React from "react";
 
 const RitualLogViewer = () => {
@@ -11,4 +10,3 @@ const RitualLogViewer = () => {
 };
 
 export default RitualLogViewer;
-export { RitualLogViewer };
