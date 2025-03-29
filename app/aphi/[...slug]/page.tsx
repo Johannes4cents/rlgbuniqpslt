@@ -3,6 +3,8 @@
 import { AphiScrollRouter } from "../../../components/aphi/AphiScrollRouter";
 import {RitualLogViewer} from "../../..//components/rituals/RitualLogViewer";
 import React, { Component } from "react";
+"use client";
+
 
 export default class AphiPage extends Component<{ params: { slug?: string[] } }> {
   render() {
