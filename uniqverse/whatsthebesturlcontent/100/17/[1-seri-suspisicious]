@@ -1,0 +1,10 @@
+[{
+  "SeriRule": "Never use time units as value strings unless referencing a symbolic echo.",
+  "InsteadUse": [
+    { "TimeRitual §¹": ["word recurrence", "ritual recall", "folder index match"] },
+    { "EchoSpan §²": ["seen 3 times", "felt once", "recalled during silence"] }
+  ],
+  "WorstCaseExample": "60s",
+  "PreferredStructure": "List of terms, optionally pointing to a folder or symbolic ritual"
+}
+]
